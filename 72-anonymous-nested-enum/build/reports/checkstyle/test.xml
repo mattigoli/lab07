@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="12.1.1">
+<file name="C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\src\test\java\it\unibo\functional\TestFunctionalLibrary.java">
+<error line="1" severity="error" message="Expected line ending for file is LF(\n), but CRLF(\r\n) is detected." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="CRLF and CR line endings are prohibited, but this file uses them." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck"/>
+</file>
+<file name="C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\src\test\java\it\unibo\nestedenum\TestMonthSorter.java">
+<error line="1" severity="error" message="Expected line ending for file is LF(\n), but CRLF(\r\n) is detected." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="CRLF and CR line endings are prohibited, but this file uses them." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck"/>
+</file>
+</checkstyle>

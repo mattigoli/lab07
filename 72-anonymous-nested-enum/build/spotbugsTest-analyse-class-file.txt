@@ -1,0 +1,14 @@
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\functional\TestFunctionalLibrary$1.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\functional\TestFunctionalLibrary$2.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\functional\TestFunctionalLibrary$3.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\functional\TestFunctionalLibrary.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$1.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$2.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$3.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$4.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$5.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$6.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$7.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$8.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter$9.class
+C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\test\it\unibo\nestedenum\TestMonthSorter.class
