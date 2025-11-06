@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="it.unibo.functional.TestFunctionalLibrary" tests="3" skipped="0" failures="3" errors="0" timestamp="2025-11-03T11:34:28.729Z" hostname="LAB22-07-14" time="0.12">
+<testsuite name="it.unibo.functional.TestFunctionalLibrary" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-06T22:00:24.717Z" hostname="DESKTOP-JMOS6NC" time="0.073">
   <properties/>
-  <testcase name="testFlatten()" classname="it.unibo.functional.TestFunctionalLibrary" time="0.097">
-    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;[Lorem, Lorem, Lorem, ipsum, ipsum, ipsum, dolor, dolor, dolor, sit, sit, sit, amet, amet, amet, consectetur, consectetur, consectetur, adipiscing, adipiscing, adipiscing, elit, elit, elit, sed, sed, sed, do, do, do, eiusmod, eiusmod, eiusmod, tempor, tempor, tempor, incididunt, incididunt, incididunt]&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;[Lorem, Lorem, Lorem, ipsum, ipsum, ipsum, dolor, dolor, dolor, sit, sit, sit, amet, amet, amet, consectetur, consectetur, consectetur, adipiscing, adipiscing, adipiscing, elit, elit, elit, sed, sed, sed, do, do, do, eiusmod, eiusmod, eiusmod, tempor, tempor, tempor, incididunt, incididunt, incididunt]&gt; but was: &lt;null&gt;
-	at app//org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:158)
-	at app//org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:139)
-	at app//org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:201)
-	at app//org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:184)
-	at app//org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:179)
-	at app//org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1188)
-	at app//it.unibo.functional.TestFunctionalLibrary.testFlatten(TestFunctionalLibrary.java:48)
-</failure>
-  </testcase>
-  <testcase name="testSelectAndReject()" classname="it.unibo.functional.TestFunctionalLibrary" time="0.016">
-    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;[sit, amet, adipiscing, sed]&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;[sit, amet, adipiscing, sed]&gt; but was: &lt;null&gt;
-	at app//org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:158)
-	at app//org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:139)
-	at app//org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:201)
-	at app//org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:184)
-	at app//org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:179)
-	at app//org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1188)
-	at app//it.unibo.functional.TestFunctionalLibrary.testSelectAndReject(TestFunctionalLibrary.java:59)
-</failure>
-  </testcase>
-  <testcase name="testTransform()" classname="it.unibo.functional.TestFunctionalLibrary" time="0.005">
-    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;[5, 5, 5, 3, 4, 11, 10, 4, 3, 2, 7, 6, 10]&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;[5, 5, 5, 3, 4, 11, 10, 4, 3, 2, 7, 6, 10]&gt; but was: &lt;null&gt;
-	at app//org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:158)
-	at app//org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:139)
-	at app//org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:201)
-	at app//org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:184)
-	at app//org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:179)
-	at app//org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1188)
-	at app//it.unibo.functional.TestFunctionalLibrary.testTransform(TestFunctionalLibrary.java:26)
-</failure>
-  </testcase>
+  <testcase name="testFlatten()" classname="it.unibo.functional.TestFunctionalLibrary" time="0.052"/>
+  <testcase name="testSelectAndReject()" classname="it.unibo.functional.TestFunctionalLibrary" time="0.014"/>
+  <testcase name="testTransform()" classname="it.unibo.functional.TestFunctionalLibrary" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

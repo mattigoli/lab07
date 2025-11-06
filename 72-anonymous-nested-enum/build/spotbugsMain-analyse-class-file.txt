@@ -1,5 +1,6 @@
-C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\api\Function$1.class
-C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\api\Function.class
-C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\Transformers.class
-C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\nestedenum\MonthSorter.class
-C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\nestedenum\MonthSorterNested.class
+C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\api\Function$1.class
+C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\api\Function.class
+C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\Transformers$1.class
+C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\functional\Transformers.class
+C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\nestedenum\MonthSorter.class
+C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\build\classes\java\main\it\unibo\nestedenum\MonthSorterNested.class

@@ -1,40 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="it.unibo.nestedenum.TestMonthSorter" tests="2" skipped="0" failures="2" errors="0" timestamp="2025-11-03T11:34:28.870Z" hostname="LAB22-07-14" time="0.004">
+<testsuite name="it.unibo.nestedenum.TestMonthSorter" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-06T22:00:24.804Z" hostname="DESKTOP-JMOS6NC" time="0.346">
   <properties/>
-  <testcase name="testAmbiguousAndIllegalName()" classname="it.unibo.nestedenum.TestMonthSorter" time="0.001">
-    <failure message="java.lang.ExceptionInInitializerError" type="java.lang.ExceptionInInitializerError">java.lang.ExceptionInInitializerError
-	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)
-	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160)
-	at java.base/java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at java.base/java.util.Optional.orElseGet(Optional.java:364)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-Caused by: java.lang.NullPointerException
-	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
-	at java.base/java.util.ImmutableCollections.listFromTrustedArray(ImmutableCollections.java:215)
-	at java.base/java.util.List.of(List.java:1055)
-	at it.unibo.nestedenum.TestMonthSorter.&lt;clinit&gt;(TestMonthSorter.java:66)
-</failure>
-  </testcase>
-  <testcase name="testSorting()" classname="it.unibo.nestedenum.TestMonthSorter" time="0.002">
-    <failure message="java.lang.NoClassDefFoundError: Could not initialize class it.unibo.nestedenum.TestMonthSorter" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: Could not initialize class it.unibo.nestedenum.TestMonthSorter
-	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)
-	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160)
-	at java.base/java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at java.base/java.util.Optional.orElseGet(Optional.java:364)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NullPointerException [in thread &quot;Test worker&quot;]
-	at java.base/java.util.Objects.requireNonNull(Objects.java:233)
-	at java.base/java.util.ImmutableCollections.listFromTrustedArray(ImmutableCollections.java:215)
-	at java.base/java.util.List.of(List.java:1055)
-	at it.unibo.nestedenum.TestMonthSorter.&lt;clinit&gt;(TestMonthSorter.java:66)
-</failure>
-  </testcase>
+  <testcase name="testAmbiguousAndIllegalName()" classname="it.unibo.nestedenum.TestMonthSorter" time="0.01"/>
+  <testcase name="testSorting()" classname="it.unibo.nestedenum.TestMonthSorter" time="0.335"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

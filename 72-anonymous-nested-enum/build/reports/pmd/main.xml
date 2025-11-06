@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 https://pmd.github.io/schema/report_2_0_0.xsd" version="7.18.0" timestamp="2025-11-03T12:34:49.759">
-<file name="C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\src\main\java\it\unibo\functional\Transformers.java">
-<violation beginline="57" endline="57" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="transform" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 https://pmd.github.io/schema/report_2_0_0.xsd" version="7.18.0" timestamp="2025-11-06T20:57:18.708">
+<file name="C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\src\main\java\it\unibo\functional\Transformers.java">
+<violation beginline="57" endline="57" begincolumn="51" endcolumn="78" rule="UseDiamondOperator" ruleset="Code Style" package="it.unibo.functional" class="Transformers" method="transform" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_codestyle.html#usediamondoperator" priority="3">
+Explicit type arguments can be replaced by a diamond: `new Function&lt;&gt;()`
+</violation>
+<violation beginline="59" endline="59" begincolumn="51" endcolumn="56" rule="MethodArgumentCouldBeFinal" ruleset="Code Style" package="it.unibo.functional" class="Transformers" method="call" variable="input" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_codestyle.html#methodargumentcouldbefinal" priority="3">
+Parameter 'input' is not assigned and could be declared final
+</violation>
+<violation beginline="78" endline="78" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="flatten" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
 Return an empty collection rather than null.
 </violation>
-<violation beginline="73" endline="73" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="flatten" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
+<violation beginline="101" endline="101" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="select" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
 Return an empty collection rather than null.
 </violation>
-<violation beginline="90" endline="90" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="select" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
-Return an empty collection rather than null.
-</violation>
-<violation beginline="106" endline="106" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="reject" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
+<violation beginline="117" endline="117" begincolumn="16" endcolumn="20" rule="ReturnEmptyCollectionRatherThanNull" ruleset="Error Prone" package="it.unibo.functional" class="Transformers" method="reject" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_errorprone.html#returnemptycollectionratherthannull" priority="1">
 Return an empty collection rather than null.
 </violation>
 </file>
-<file name="C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\src\main\java\it\unibo\functional\api\Function.java">
+<file name="C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\src\main\java\it\unibo\functional\api\Function.java">
 <violation beginline="27" endline="27" begincolumn="28" endcolumn="33" rule="UseDiamondOperator" ruleset="Code Style" package="it.unibo.functional.api" class="Function" method="identity" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_codestyle.html#usediamondoperator" priority="3">
 Explicit type arguments can be replaced by a diamond: `new Function&lt;&gt;()`
 </violation>
@@ -25,7 +28,7 @@ Parameter 'input' is not assigned and could be declared final
 Unnecessary semicolon
 </violation>
 </file>
-<file name="C:\Users\mattia.golinucci2\lab07\72-anonymous-nested-enum\src\main\java\it\unibo\nestedenum\MonthSorterNested.java">
+<file name="C:\Users\ACER\Desktop\Programmazione ad oggetti\07\lab07\72-anonymous-nested-enum\src\main\java\it\unibo\nestedenum\MonthSorterNested.java">
 <violation beginline="4" endline="4" begincolumn="1" endcolumn="25" rule="UnnecessaryImport" ruleset="Code Style" package="it.unibo.nestedenum" class="MonthSorterNested" externalInfoUrl="https://docs.pmd-code.org/pmd-doc-7.18.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
 Unused import 'java.util.Locale'
 </violation>
